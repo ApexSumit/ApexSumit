@@ -1,19 +1,9 @@
-# 👋 Hi, I'm Sumit Prajapati
-
-> **Professional GitHub Profile README Template**
-
-> **Note:** Replace `YOUR_USERNAME` with `ApexSumit` where needed and update repository names if necessary.
-
 <h1 align="center">👋 Hi, I'm Sumit Prajapati</h1>
-<h3 align="center">🚀 Tech Enthusiast • Frontend Developer • AI Explorer • Arduino Maker</h3>
+<h3 align="center">🚀 A passionate Tech Enthusiast & Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Enthusiast;Python+Developer;Open+Source+Learner;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ApexSumit&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/ApexSumit?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=ApexSummit&label=Profile%20Views&color=0e75b6&style=flat" alt="ApexSummit" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ApexSumit?label=Followers&style=social">
 </p>
 
 ---
@@ -22,31 +12,24 @@
 
 - 🔭 Building responsive web applications
 - 🌱 Learning Full Stack Development
-- 🤖 Exploring AI + Web Development
+- 🤖 Exploring AI + Python
 - ⚡ Arduino & Embedded Systems enthusiast
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- C
-- C#
-- TailwindCSS
-- Node.js
-- Flask
-- MySQL
-- Git
-- GitHub
-- Docker
-- Kubernetes
-- Linux
-- Arduino
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend & Frameworks** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) |
+| **Hardware/Embedded** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 
 ---
+
 
 # 📊 GitHub Statistics
 
