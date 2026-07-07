@@ -41,12 +41,10 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://x.com/sumit5_8" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" /></a>
+  <a href="https://www.linkedin.com/in/sumit-prajapati-696597250/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://fb.com/your-facebook-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook" /></a>
-  <a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://instagram.com/sumitprajapati.up" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
 ---
-
-⭐️ *From [ApexSummit](https://github.com/ApexSummit)*
