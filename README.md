@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApexSummit&label=Profile%20Views&color=0e75b6&style=flat" alt="ApexSummit" />
-  <img alt="GitHub followers" src="https://github.com/ApexSumit?tab=followers&style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ApexSummit?label=Followers&style=social">
 </p>
 
 ---
