@@ -10,7 +10,7 @@
 
 ### 💡 About Me
 - 🔭 I'm currently working on building responsive and pixel-perfect web applications.
-- 🌱 I'm constantly exploring new technologies, focusing on DevOps tools and full-stack concepts.
+- 🌱 I'm constantly exploring new technologies, focusing on full-stack concepts.
 - 🤖 I love exploring the intersection of **Web Development** and **Artificial Intelligence**.
 - ⚡ Fun fact: I enjoy tinkering with hardware and embedding systems (Arduino enthusiast).
 
@@ -33,8 +33,8 @@
 
 | Project | Description |
 | :--- | :--- |
-| 🔗 **[Portfolio](https://github.com/ApexSummit/portfolio)** | My personal developer portfolio built to showcase my frontend skills, projects, and technical expertise. |
-| 🤖 **[AI-vs-AI-Web](https://github.com/ApexSummit/AI-vs-AI-Web-)** | An experimental web-based project exploring the integration of AI technologies into everyday web solutions. |
+| 🔗 **[Portfolio](https://apexsumit.github.io/portfolio/)** | My personal developer portfolio built to showcase my frontend skills, projects, and technical expertise. |
+| 🤖 **[AI-vs-AI-Web](https://github.com/ApexSumit/AI-Calc)** | An experimental web-based project exploring the integration of AI technologies into everyday web solutions. |
 
 ---
 
